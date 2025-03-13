@@ -119,4 +119,4 @@ We welcome contributions! Feel free to fork this repo, create a new branch, and 
 MIT License
 
 ## Contact
-For support or inquiries, email us at **support@xylogpt.com** or visit [Xylo.dev](https://xylotech.in).
+For support or inquiries, email us at **support@xylogpt.com** or visit [Xylo](https://xylotech.in).

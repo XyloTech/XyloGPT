@@ -110,7 +110,7 @@ print(blog_post["generated_text"])
 We welcome contributions! Feel free to fork this repo, create a new branch, and submit a pull request.
 
 ## Team Credits
-- **CEO & Lead Developer**: Harshit
+- **CEO & Lead Developer**: Harshit Prajapati
 - **Developer**: Ekansh Prajapati
 - **Video & Content Editor**: Chitransh
 - **AI Research & Consultant**: Ritoshree Saha
